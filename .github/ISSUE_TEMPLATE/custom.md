@@ -7,8 +7,8 @@ assignees: ChrisixFlash
 
 ---
 
-**Customer**: PSPDFKit (christoph@pspdfkit.com)
-**Ticket:** https://github.com/PSPDFKit/PSPDFKit/issues/33737
+**Customer**: {{ticket.organization.name}} ({{ticket.requester.email}})
+**Ticket:** https://pspdfkit.zendesk.com/agent/tickets/{{ticket.id}}
 ---
 
 ## Details
